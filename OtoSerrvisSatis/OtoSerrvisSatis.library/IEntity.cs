@@ -1,0 +1,7 @@
+﻿namespace OtoSerrvisSatis.library
+{
+    public interface IEntity
+    {
+        public int Id { get; set; }
+    }
+}

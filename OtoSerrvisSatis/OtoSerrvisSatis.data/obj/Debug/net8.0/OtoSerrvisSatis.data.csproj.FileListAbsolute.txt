@@ -1,0 +1,17 @@
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.csproj.AssemblyReference.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.AssemblyInfoInputs.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.AssemblyInfo.cs
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.csproj.CoreCompileInputs.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\bin\Debug\net8.0\OtoSerrvisSatis.data.deps.json
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\bin\Debug\net8.0\OtoSerrvisSatis.data.runtimeconfig.json
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\bin\Debug\net8.0\OtoSerrvisSatis.data.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\bin\Debug\net8.0\OtoSerrvisSatis.data.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\bin\Debug\net8.0\OtoSerrvisSatis.Entities.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\bin\Debug\net8.0\OtoSerrvisSatis.Entities.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrv.A555D24E.Up2Date
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\refint\OtoSerrvisSatis.data.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\OtoSerrvisSatis.data.genruntimeconfig.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.data\obj\Debug\net8.0\ref\OtoSerrvisSatis.data.dll

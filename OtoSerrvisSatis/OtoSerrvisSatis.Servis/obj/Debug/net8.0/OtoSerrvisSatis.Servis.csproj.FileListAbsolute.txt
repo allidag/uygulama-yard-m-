@@ -1,0 +1,13 @@
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\bin\Debug\net8.0\OtoSerrvisSatis.Servis.deps.json
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\bin\Debug\net8.0\OtoSerrvisSatis.Servis.runtimeconfig.json
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\bin\Debug\net8.0\OtoSerrvisSatis.Servis.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\bin\Debug\net8.0\OtoSerrvisSatis.Servis.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.AssemblyInfoInputs.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.AssemblyInfo.cs
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.csproj.CoreCompileInputs.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\refint\OtoSerrvisSatis.Servis.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\OtoSerrvisSatis.Servis.genruntimeconfig.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.Servis\obj\Debug\net8.0\ref\OtoSerrvisSatis.Servis.dll

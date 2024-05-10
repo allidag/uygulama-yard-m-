@@ -1,0 +1,40 @@
+﻿@model IEnumerable<OtoSerrvisSatis.Entities.Rol>
+
+@{
+    ViewData["Title"] = "Roller";
+}
+
+<h1>Roller</h1>
+
+<p>
+    <a asp-action="Create">Yeni Ekle</a>
+</p>
+<table class="table table - striped table - hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adi)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Düzenle", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Sil", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

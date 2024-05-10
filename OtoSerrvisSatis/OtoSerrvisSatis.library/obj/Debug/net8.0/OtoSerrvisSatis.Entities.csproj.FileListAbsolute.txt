@@ -1,0 +1,11 @@
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\bin\Debug\net8.0\OtoSerrvisSatis.Entities.deps.json
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\bin\Debug\net8.0\OtoSerrvisSatis.Entities.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\bin\Debug\net8.0\OtoSerrvisSatis.Entities.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\OtoSerrvisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\OtoSerrvisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\OtoSerrvisSatis.Entities.AssemblyInfo.cs
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\OtoSerrvisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\OtoSerrvisSatis.Entities.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\refint\OtoSerrvisSatis.Entities.dll
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\OtoSerrvisSatis.Entities.pdb
+C:\Users\Murat DAĞ\source\repos\OtoSerrvisSatis\OtoSerrvisSatis.library\obj\Debug\net8.0\ref\OtoSerrvisSatis.Entities.dll

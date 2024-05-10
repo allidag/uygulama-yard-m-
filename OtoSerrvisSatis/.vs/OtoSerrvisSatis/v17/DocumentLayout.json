@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|solutionrelative:otoserrvissatis\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|solutionrelative:otoserrvissatis\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED748C-6594-4815-944F-ED37B4C1FFDB}|OtoSerrvisSatis.Servis\\OtoSerrvisSatis.Servis.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis.servis\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED748C-6594-4815-944F-ED37B4C1FFDB}|OtoSerrvisSatis.Servis\\OtoSerrvisSatis.Servis.csproj|solutionrelative:otoserrvissatis.servis\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D7C10-AA85-4251-91D0-331FD36AF636}|OtoSerrvisSatis.library\\OtoSerrvisSatis.Entities.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis.library\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D7C10-AA85-4251-91D0-331FD36AF636}|OtoSerrvisSatis.library\\OtoSerrvisSatis.Entities.csproj|solutionrelative:otoserrvissatis.library\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D7C10-AA85-4251-91D0-331FD36AF636}|OtoSerrvisSatis.library\\OtoSerrvisSatis.Entities.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis.library\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D7C10-AA85-4251-91D0-331FD36AF636}|OtoSerrvisSatis.library\\OtoSerrvisSatis.Entities.csproj|solutionrelative:otoserrvissatis.library\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED748C-6594-4815-944F-ED37B4C1FFDB}|OtoSerrvisSatis.Servis\\OtoSerrvisSatis.Servis.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis.servis\\abstract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED748C-6594-4815-944F-ED37B4C1FFDB}|OtoSerrvisSatis.Servis\\OtoSerrvisSatis.Servis.csproj|solutionrelative:otoserrvissatis.servis\\abstract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis\\areas\\admin\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|solutionrelative:otoserrvissatis\\areas\\admin\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|c:\\users\\murat da\u011F\\source\\repos\\otoserrvissatis\\otoserrvissatis\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{799A8797-A403-498D-831D-3DD3E42762D6}|OtoSerrvisSatis\\OtoSerrvisSatis.csproj|solutionrelative:otoserrvissatis\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "OtoSerrvisSatis\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:12:24.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.Servis\\Abstract\\IService.cs",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis.Servis\\Abstract\\IService.cs",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.Servis\\Abstract\\IService.cs",
+              "RelativeToolTip": "OtoSerrvisSatis.Servis\\Abstract\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:09.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.library\\IEntity.cs",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis.library\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.library\\IEntity.cs",
+              "RelativeToolTip": "OtoSerrvisSatis.library\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:33:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.library\\Rol.cs",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis.library\\Rol.cs",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.library\\Rol.cs",
+              "RelativeToolTip": "OtoSerrvisSatis.library\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:12:25.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.Servis\\ConCrete\\Service.cs",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis.Servis\\ConCrete\\Service.cs",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis.Servis\\ConCrete\\Service.cs*",
+              "RelativeToolTip": "OtoSerrvisSatis.Servis\\ConCrete\\Service.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:15:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "OtoSerrvisSatis\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T21:25:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Areas\\Admin\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis\\Areas\\Admin\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Areas\\Admin\\Controllers\\MainController.cs",
+              "RelativeToolTip": "OtoSerrvisSatis\\Areas\\Admin\\Controllers\\MainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:15:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OtoSerrvisSatis\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Murat DA\u011E\\source\\repos\\OtoSerrvisSatis\\OtoSerrvisSatis\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OtoSerrvisSatis\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T20:09:48.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
